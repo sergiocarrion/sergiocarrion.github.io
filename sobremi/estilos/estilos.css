@@ -1,0 +1,49 @@
+body {
+    background-image: url("../imagenes/perrito.jpg");
+}
+
+h1 {
+    color: green;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2 {
+    color: green;
+}
+
+.uno {
+	color:yellow;
+}
+
+dt {
+	 color:green;ยบ
+	 text-decoration: underline;
+}
+
+p {
+	 color:yellow;
+}
+
+.dos {
+	color:red;
+}
+dd {
+	color:yellow;
+}
+
+.tres {
+	color:blue;
+}
+
+.cuatro {
+	color:yellow;
+	border:3px solid black;
+}
+
+
+
+table, tr, td {
+	border-collapse: collapse;
+    border: 3px solid black;
+}
